@@ -1,0 +1,7 @@
+Question:
+1. Create a Counter that starts at 0 and increments whenever a user clicks a button
+
+Process:
+1. useState() to keep track of state and the int variable
+2. useRef() and useState() as an alternative
+
